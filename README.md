@@ -1,3 +1,4 @@
+![Uploading Alation-to-Microsoft-365-Copilot-Connector.PNG…]()
 # Alation → Copilot Graph Connector
 
 Indexes Alation catalog objects (data sources, schemas, tables, columns, business
